@@ -107,15 +107,24 @@ content:
         caption: "Advisor: Seung Kyu Min"
         description: |
           Ulsan National Institute of Science and Technology (UNIST), September 2016 - Present
-          
-          
-        
+                 
       - layout: left
         title: B.S.
         sub_title: Chemistry
         description: |
           Ulsan National Institute of Science and Technology (UNIST), March 2012 - August 2016
-  
+         
+      - layout: top-middle
+        title: Ph.D. Candidate in Chemistry
+        sub_title: Ulsan National Institute of Science and Technology (UNIST)
+        caption: September 2016 - Present, "Advisor: Seung Kyu Min"
+      
+      - layout: top-middle
+        title: B.S. in Chemistry
+        sub_title: Ulsan National Institute of Science and Technology (UNIST)
+        caption: March 2012 - August 2016
+
+
   - title: Skills
     layout: list
     content:
