@@ -104,13 +104,16 @@ content:
   - title: Skills
     layout: list
     content:
-      - layout: top-middle
+#      - layout: top-middle
+      - layout: left
         title: Language
-        caption: Korean, English
+#        caption: Korean, English
+        description: Korean, English
       
       - layout: top-middle
         title: Programming
-        caption: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
+#        caption: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
+        description: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
   
   - title: Professional Activities
     layout: list
