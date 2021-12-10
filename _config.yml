@@ -94,7 +94,9 @@ content:
       - layout: top-middle
         title: Ulsan National Institute of Science and Technology (UNIST)
         caption: September 2016 - Present
-        sub_title: Ph.D. Candidate in Chemistry (Advisor: Seung Kyu Min)
+        sub_title: Ph.D. Candidate in Chemistry
+        description: |
+            Advisonr: Seung Kyu Min
 
       - layout: top-middle
         title: Ulsan National Institute of Science and Technology (UNIST)
@@ -106,11 +108,11 @@ content:
     content:
       - layout: top-middle
         title: Language
-        sub_title: Korean, English
+        cation: Korean, English
       
       - layout: top-middle
         title: Programming
-        sub_title: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
+        caption: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
   
   - title: Professional Activities
     layout: list
