@@ -91,37 +91,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Ulsan National Institute of Science and Technology (UNIST)
-        caption: September 2016 - Present
-        sub_title: "Ph.D. Candidate in Chemistry, Advisor: Seung Kyu Min"
-
-      - layout: top-middle
-        title: Ulsan National Institute of Science and Technology (UNIST)
-        caption: March 2012 - August 2016
-        sub_title: B.S. in Chemistry
-
-      - layout: left
-        title: Ph.D. Candidate
-        sub_title: Chemistry
-        caption: "Advisor: Seung Kyu Min"
-        description: |
-          Ulsan National Institute of Science and Technology (UNIST), September 2016 - Present
-                 
-      - layout: left
-        title: B.S.
-        sub_title: Chemistry
-        description: |
-          Ulsan National Institute of Science and Technology (UNIST), March 2012 - August 2016
-         
-      - layout: top-middle
         title: Ph.D. Candidate in Chemistry
         sub_title: Ulsan National Institute of Science and Technology (UNIST)
         caption: "September 2016 - Present, Advisor: Seung Kyu Min"
-      
+                
       - layout: top-middle
         title: B.S. in Chemistry
         sub_title: Ulsan National Institute of Science and Technology (UNIST)
         caption: March 2012 - August 2016
+        description: |
 
 
   - title: Skills
@@ -137,7 +115,7 @@ content:
       - layout: left
         title: Programming
 #        caption: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
-        description: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
+        description: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC) |
   
   - title: Professional Activities
     layout: list
