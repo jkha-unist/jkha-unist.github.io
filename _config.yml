@@ -45,7 +45,7 @@ orcid_username: 0000-0003-4694-5627
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Personal Information
+about_title: Personal Information
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   This is Jong-Kwon Ha.
@@ -94,7 +94,7 @@ content:
       - layout: top-middle
         title: Ulsan National Institute of Science and Technology (UNIST)
         caption: September 2016 - Present
-        sub_title: Ph.D. Candidate in Chemistry
+        sub_title: Ph.D. Candidate in Chemistry, Advisor: Seung Kyu Min
       
       - layout: top-middle
         title: Ulsan National Institute of Science and Technology (UNIST)
@@ -102,10 +102,30 @@ content:
         sub_title: B.S. in Chemistry
   
   - title: Skills
-    layout: text
-    content: |
-      Korean, English
-
+    layout: list
+    content:
+      - layout: top-middle
+        title: Language
+        sub_title: Korean, English
+      
+      - layout: top-middle
+        title: Programming
+        sub_title: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
+  
+  - title: Professional Activities
+    layout: list
+    content:
+      - layout: top-middle
+        title: Development of PyUNIxMD
+        link: github.com/skmin-lab/unixmd
+        caption: Python-based excited state molecular dynamics simulation suite
+        additional_links:
+          - title:: PyUNIxMD
+            icon: fab fa-github
+            url: github.com/skmin-lab/unixmd
+  
+  - title: Publications
+    layout: list
 
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
