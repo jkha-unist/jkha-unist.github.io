@@ -90,7 +90,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+#      - layout: left
+      - layout: center
         title: Ulsan National Institute of Science and Technology (UNIST)
         caption: March 2012 - August 2016
         sub_title: B.S. in Chemistry
