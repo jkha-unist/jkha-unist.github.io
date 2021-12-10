@@ -126,7 +126,7 @@ content:
       - layout: top-middle
         title: Development of PyUNIxMD
         link: github.com/skmin-lab/unixmd
-        caption: Python-based excited state molecular dynamics simulation suite
+        caption: Python-based UNIversal excited state Molecular Dynamics simulation suite
         additional_links:
           - title:: PyUNIxMD
             icon: fab fa-github
