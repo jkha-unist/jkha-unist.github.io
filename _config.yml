@@ -110,7 +110,8 @@ content:
 #        caption: Korean, English
         description: Korean, English
       
-      - layout: top-middle
+#      - layout: top-middle
+      - layout: left
         title: Programming
 #        caption: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
         description: Python, C, Fortran 90, Perl, Shell, (CUDA, OpenACC)
